@@ -1,4 +1,5 @@
-El acceso de las teclas es el siguiente:;
+El acceso de las teclas es el siguiente:
+
 'Q':exit;
 
 	'1':modo=POINTS;
@@ -8,7 +9,8 @@ El acceso de las teclas es el siguiente:;
 
         'I':t_objeto=Maquina;
 
-Para controlar la maquina:;
+Para controlar la maquina:
+
 	'F1':Subir primer brazo
 	'F2':Bajar primer brazo
 	'F3':Subir segundo brazo
@@ -22,17 +24,21 @@ Para controlar la maquina:;
 	'F11':Aumenta la velocidad de la segunda articulacion
 	'F12':Disminuye la velocidad de la segunda articulacion
 
-___________Luces:;
-Tipo de iluminacion:;
+___________Luces:
+
+Tipo de iluminacion:
+
 	'5':modo=SOLID_ILLUMINATED_FLAT
     '6':modo=SOLID_ILLUMINATED_GOURAUD
 
-Control de luces:;
+Control de luces:
+
 	'7':Apaga todas las luces
 	'8':Apaga/enciende luz1//Direccional
 	'9':Apaga/enciende luz2//Direccional
 	'0':Apaga/enciende luz3//Posicional
 	'Z':Desplaza la luz 3
 
-Cambio de material:;
+Cambio de material:
+
 	'M':rota entre los materiales
