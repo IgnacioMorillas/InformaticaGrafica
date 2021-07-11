@@ -1,4 +1,4 @@
-El acceso de las teclas es el siguiente:
+El acceso de las teclas es el siguiente:;
 'Q':exit;
 
 	'1':modo=POINTS;
@@ -8,7 +8,8 @@ El acceso de las teclas es el siguiente:
 
         'I':t_objeto=Maquina;
 
-Para controlar la maquina:
+Para controlar la maquina::
+
 	'F1':Subir primer brazo
 	'F2':Bajar primer brazo
 	'F3':Subir segundo brazo
